@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "The Spice House",
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/e0839ff574213e6f35b3899ebf1fc597",
+    "email": "contact@spicehouse.com",
+    "phone": "123-456-7890",
+    "address": "123 Curry St, Suite 101",
+    "area": "Downtown"
+  },
+  {
+    "id": 2,
+    "name": "Burger Town",
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/7/22/29d99d35-ac12-4a7f-af1f-b2f4d5e756d6_660690.jpg",
+    "email": "info@burgertown.com",
+    "phone": "987-654-3210",
+    "address": "456 Grill Ave, Floor 2",
+    "area": "Uptown"
+  },
+  {
+    "id": 3,
+    "name": "Pasta Palace",
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/4/17/283329f9-5ad8-4c46-9177-6b23b6eb2966_17311.JPG",
+    "email": "hello@pastapalace.com",
+    "phone": "555-123-4567",
+    "address": "789 Noodle Blvd, Apt 5A",
+    "area": "Midtown"
+  },
+  {
+    "id": 4,
+    "name": "Sushi Central",
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/7/18/d1d2f670-1fa3-4911-8c42-852bc4f811b6_699623.jpg",
+    "email": "reservations@sushicentral.com",
+    "phone": "222-333-4444",
+    "address": "321 Sashimi Dr, Ste 10",
+    "area": "Chinatown"
+  },
+  {
+    "id": 5,
+    "name": "Vegan Delight",
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/6/11/7f76a072-c1bc-4d74-ac56-33e0eea20c1e_20686.JPG",
+    "email": "support@vegandelight.com",
+    "phone": "888-999-1111",
+    "address": "654 Herbivore Ln, 3rd Floor",
+    "area": "West End"
+  },
+  {
+    "id": 6,
+    "name": "Pizza Planet",
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/9/17/ac251ff8-a082-4348-b2b1-3ae057ecfbb6_136107.jpg",
+    "email": "order@pizzaplanet.com",
+    "phone": "111-222-3333",
+    "address": "777 Mozzarella St, Suite 22",
+    "area": "Eastside"
+  },
+  {
+    "id": 7,
+    "name": "BBQ Haven",
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/9/9/3a535599-cdee-42f6-8c5d-e0f5a3e32092_770490.jpg",
+    "email": "bookings@bbqhaven.com",
+    "phone": "666-777-8888",
+    "address": "888 Smokehouse Rd, Ste 11",
+    "area": "North District"
+  },
+  {
+    "id": 8,
+    "name": "The Salad Stop",
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/9/18/8bab43f9-ba18-4d30-8b97-08ebb6babffd_917327.jpg",
+    "email": "contact@saladstop.com",
+    "phone": "333-444-5555",
+    "address": "999 Leafy Greens Ave, Ground Floor",
+    "area": "Green Valley"
+  },
+  {
+    "id": 9,
+    "name": "Taco Fiesta",
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/9/19/33ef235b-3c39-4106-b579-273df243c9b9_23815.jpg",
+    "email": "support@tacofiesta.com",
+    "phone": "123-321-1234",
+    "address": "456 Salsa Rd, Suite 8",
+    "area": "Southside"
+  },
+  {
+    "id": 10,
+    "name": "Dim Sum House",
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/7/28/535dcdeb-d4db-4695-94eb-c3c30035afd1_136063.JPG",
+    "email": "book@dimsumhouse.com",
+    "phone": "987-111-2222",
+    "address": "101 Dumpling Blvd, 2nd Floor",
+    "area": "Chinatown"
+  },
+  {
+    "id": 11,
+    "name": "Steak Supreme",
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/rw1xvlrjbqrzjclvcxh3",
+    "email": "info@steaksupreme.com",
+    "phone": "444-555-6666",
+    "address": "222 Angus Ln, Apt 1B",
+    "area": "Central Park"
+  },
+  {
+    "id": 12,
+    "name": "Curry House",
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/055e5a0de1e7d02354d4ca1a45f2d222",
+    "email": "hello@curryhouse.com",
+    "phone": "555-666-7777",
+    "address": "333 Spice Blvd, Suite 6",
+    "area": "West End"
+  }
+]
