@@ -5,6 +5,8 @@ const mongoose = require("mongoose");
 const bodyParser = require("body-parser");
 const authRoutes = require("./routes/auth.js");
 const restrauntRoutes = require("./routes/restraunts.js");
+const cartRoutes = require("./routes/cart.js");
+const orderRoutes = require("./routes/order.js");
 const dotenv = require("dotenv");
 
 dotenv.config();
@@ -49,6 +51,8 @@ app.use("/auth", authRoutes);
 
 // Below APIs requires authorization
 app.use("/restraunts", verifyAuthorization, restrauntRoutes);
+app.use("/cart", verifyAuthorization, cartRoutes);
+app.use("/order", verifyAuthorization, orderRoutes);
 
 // Start the server
 const PORT = process.env.PORT || 3000;

@@ -1,0 +1,248 @@
+[
+  {
+    "id": 1,
+    "name": "The Spice House",
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/e0839ff574213e6f35b3899ebf1fc597",
+    "email": "contact@spicehouse.com",
+    "phone": "123-456-7890",
+    "address": "123 Curry St, Suite 101",
+    "area": "Downtown",
+    "dishes": [
+      {
+        "name": "Chicken Curry",
+        "image": "https://example.com/images/chicken-curry.jpg",
+        "description": "A flavorful chicken curry cooked in aromatic spices.",
+        "price": 12.99
+      },
+      {
+        "name": "Lamb Vindaloo",
+        "image": "https://example.com/images/lamb-vindaloo.jpg",
+        "description": "Spicy lamb curry cooked with vinegar and potatoes.",
+        "price": 14.99
+      },
+      {
+        "name": "Paneer Butter Masala",
+        "image": "https://example.com/images/paneer-butter-masala.jpg",
+        "description": "Cottage cheese cooked in a creamy tomato gravy.",
+        "price": 11.49
+      },
+      {
+        "name": "Tandoori Chicken",
+        "image": "https://example.com/images/tandoori-chicken.jpg",
+        "description": "Chicken marinated in yogurt and spices, grilled in a tandoor.",
+        "price": 15.99
+      },
+      {
+        "name": "Naan Bread",
+        "image": "https://example.com/images/naan-bread.jpg",
+        "description": "Soft and fluffy traditional Indian flatbread.",
+        "price": 3.49
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Burger Town",
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/7/22/29d99d35-ac12-4a7f-af1f-b2f4d5e756d6_660690.jpg",
+    "email": "info@burgertown.com",
+    "phone": "987-654-3210",
+    "address": "456 Grill Ave, Floor 2",
+    "area": "Uptown",
+    "dishes": [
+      {
+        "name": "Classic Cheeseburger",
+        "image": "https://example.com/images/classic-cheeseburger.jpg",
+        "description": "A juicy beef patty with melted cheese, lettuce, and tomato.",
+        "price": 8.99
+      },
+      {
+        "name": "BBQ Bacon Burger",
+        "image": "https://example.com/images/bbq-bacon-burger.jpg",
+        "description": "Beef burger topped with crispy bacon and BBQ sauce.",
+        "price": 10.99
+      },
+      {
+        "name": "Veggie Burger",
+        "image": "https://example.com/images/veggie-burger.jpg",
+        "description": "A delicious plant-based patty with lettuce, tomato, and avocado.",
+        "price": 9.49
+      },
+      {
+        "name": "Chicken Burger",
+        "image": "https://example.com/images/chicken-burger.jpg",
+        "description": "Crispy fried chicken with lettuce, mayo, and pickles.",
+        "price": 8.49
+      },
+      {
+        "name": "Fries",
+        "image": "https://example.com/images/fries.jpg",
+        "description": "Crispy golden fries, perfectly seasoned.",
+        "price": 2.99
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Pasta Palace",
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/4/17/283329f9-5ad8-4c46-9177-6b23b6eb2966_17311.JPG",
+    "email": "hello@pastapalace.com",
+    "phone": "555-123-4567",
+    "address": "789 Noodle Blvd, Apt 5A",
+    "area": "Midtown",
+    "dishes": [
+      {
+        "name": "Spaghetti Bolognese",
+        "image": "https://example.com/images/spaghetti-bolognese.jpg",
+        "description": "Classic Italian pasta with a rich meat sauce.",
+        "price": 12.99
+      },
+      {
+        "name": "Fettuccine Alfredo",
+        "image": "https://example.com/images/fettuccine-alfredo.jpg",
+        "description": "Pasta in a creamy Alfredo sauce with parmesan cheese.",
+        "price": 13.49
+      },
+      {
+        "name": "Penne Arrabbiata",
+        "image": "https://example.com/images/penne-arrabbiata.jpg",
+        "description": "Penne pasta in a spicy tomato-based sauce.",
+        "price": 11.99
+      },
+      {
+        "name": "Lasagna",
+        "image": "https://example.com/images/lasagna.jpg",
+        "description": "Layers of pasta, meat sauce, and cheese, baked to perfection.",
+        "price": 14.99
+      },
+      {
+        "name": "Garlic Bread",
+        "image": "https://example.com/images/garlic-bread.jpg",
+        "description": "Crusty bread with garlic butter and herbs.",
+        "price": 4.49
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Sushi Central",
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/7/18/d1d2f670-1fa3-4911-8c42-852bc4f811b6_699623.jpg",
+    "email": "reservations@sushicentral.com",
+    "phone": "222-333-4444",
+    "address": "321 Sashimi Dr, Ste 10",
+    "area": "Chinatown",
+    "dishes": [
+      {
+        "name": "California Roll",
+        "image": "https://example.com/images/california-roll.jpg",
+        "description": "Sushi roll with crab, avocado, and cucumber.",
+        "price": 7.99
+      },
+      {
+        "name": "Spicy Tuna Roll",
+        "image": "https://example.com/images/spicy-tuna-roll.jpg",
+        "description": "Sushi roll with spicy tuna, cucumber, and avocado.",
+        "price": 8.99
+      },
+      {
+        "name": "Salmon Nigiri",
+        "image": "https://example.com/images/salmon-nigiri.jpg",
+        "description": "Fresh salmon served over a small ball of rice.",
+        "price": 5.49
+      },
+      {
+        "name": "Dragon Roll",
+        "image": "https://example.com/images/dragon-roll.jpg",
+        "description": "Eel, cucumber, and avocado sushi roll.",
+        "price": 9.99
+      },
+      {
+        "name": "Miso Soup",
+        "image": "https://example.com/images/miso-soup.jpg",
+        "description": "Traditional Japanese soup with tofu and seaweed.",
+        "price": 3.49
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Vegan Delight",
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/6/11/7f76a072-c1bc-4d74-ac56-33e0eea20c1e_20686.JPG",
+    "email": "support@vegandelight.com",
+    "phone": "888-999-1111",
+    "address": "654 Herbivore Ln, 3rd Floor",
+    "area": "West End",
+    "dishes": [
+      {
+        "name": "Vegan Burger",
+        "image": "https://example.com/images/vegan-burger.jpg",
+        "description": "Plant-based burger with lettuce, tomato, and vegan mayo.",
+        "price": 9.99
+      },
+      {
+        "name": "Tofu Stir-fry",
+        "image": "https://example.com/images/tofu-stir-fry.jpg",
+        "description": "Tofu stir-fried with vegetables and soy sauce.",
+        "price": 11.49
+      },
+      {
+        "name": "Vegan Pizza",
+        "image": "https://example.com/images/vegan-pizza.jpg",
+        "description": "Pizza with vegan cheese, mushrooms, and spinach.",
+        "price": 12.99
+      },
+      {
+        "name": "Vegan Brownie",
+        "image": "https://example.com/images/vegan-brownie.jpg",
+        "description": "Rich chocolate brownie made with plant-based ingredients.",
+        "price": 4.99
+      },
+      {
+        "name": "Quinoa Salad",
+        "image": "https://example.com/images/quinoa-salad.jpg",
+        "description": "Healthy quinoa salad with chickpeas, cucumber, and avocado.",
+        "price": 8.99
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Pizza Planet",
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/9/17/ac251ff8-a082-4348-b2b1-3ae057ecfbb6_136107.jpg",
+    "email": "order@pizzaplanet.com",
+    "phone": "111-222-3333",
+    "address": "777 Mozzarella St, Suite 22",
+    "area": "Eastside",
+    "dishes": [
+      {
+        "name": "Margherita Pizza",
+        "image": "https://example.com/images/margherita-pizza.jpg",
+        "description": "Classic pizza with mozzarella, tomatoes, and basil.",
+        "price": 10.99
+      },
+      {
+        "name": "Pepperoni Pizza",
+        "image": "https://example.com/images/pepperoni-pizza.jpg",
+        "description": "Pizza topped with pepperoni and mozzarella.",
+        "price": 12.49
+      },
+      {
+        "name": "BBQ Chicken Pizza",
+        "image": "https://example.com/images/bbq-chicken-pizza.jpg",
+        "description": "Pizza with BBQ sauce, chicken, and onions.",
+        "price": 13.99
+      },
+      {
+        "name": "Vegetarian Pizza",
+        "image": "https://example.com/images/vegetarian-pizza.jpg",
+        "description": "Pizza topped with a variety of fresh vegetables.",
+        "price": 11.99
+      },
+      {
+        "name": "Garlic Knots",
+        "image": "https://example.com/images/garlic-knots.jpg",
+        "description": "Soft, garlic-flavored dough knots, served with marinara sauce.",
+        "price": 4.49
+      }
+    ]
+  }
+]

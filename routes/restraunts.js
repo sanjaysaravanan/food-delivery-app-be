@@ -85,4 +85,26 @@ router.delete("/:id", async (req, res) => {
   }
 });
 
+// GET /restaurants/:restaurantId/dishes?restaurantId=<id> - Get all dishes of a specific restaurant
+router.get("/:restaurantId/dishes", async (req, res) => {
+  const { restaurantId } = req.params;
+
+  try {
+    // Find the restaurant by ID and return its dishes
+    const restaurant = await Restaurant.findOne({ id: Number(restaurantId) });
+
+    console.log(restaurant);
+
+    if (!restaurant) {
+      return res.status(404).json({ error: "Restaurant not found" });
+    }
+
+    // Return the dishes array from the restaurant
+    res.status(200).json(restaurant.dishes);
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ error: "Error fetching dishes" });
+  }
+});
+
 module.exports = router;
